@@ -1,4 +1,4 @@
- #👋 Hello there! 
+ # 👋 Hello there! 
  I'm an embedded software developer, always trying to craft efficient and reliable firmware solutions.
 
 # 💻 Technical Skills:
