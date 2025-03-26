@@ -1,28 +1,36 @@
- # 👋 Hello there! 
- I'm an embedded software developer, always trying to craft efficient and reliable firmware solutions.
+# 👨‍💻 Fullstack Developer | C# • Angular • SQL Server
 
-# 💻 Technical Skills:
-Languages: C, C++, Python
-Embedded Platforms: ARM Cortex-M, AVR, PIC, Xtensa
-RTOS: FreeRTOS
-Communication Protocols: SPI, I2C, UART, CAN, HTTP(S)
-Tools: PlatformIO, Azure Pipelines, Git
+Hi! I'm a fullstack developer focused on building scalable and efficient web applications using modern technologies across the stack.
 
-# 🚀 What I Do:
-I specialize in developing firmware for embedded systems, ensuring seamless communication between hardware components and creating robust solutions for diverse applications. My expertise extends to real-time operating systems, low-level drivers, IoT solutions, and optimizing code for resource-constrained environments.
+I bring with me a solid background in embedded systems development, which taught me the value of precision, performance, and low-level thinking — now applied to crafting high-quality web solutions.
 
-# 📚 Continuous Learning:
-In this ever-evolving field, I am committed to staying updated with the latest technologies and methodologies. I enjoy tackling challenging problems, learning new programming paradigms, and pushing the boundaries of what embedded systems can achieve.
+---
 
-# 🤝 Let's Connect:
-I'm open to collaborations, discussions, and connecting with fellow developers! Feel free to reach out to me on LinkedIn.
+## 💻 Current Stack
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=brskt-dev&theme=highcontrast&hide_border=true)<br/>
+- **Backend:** .NET C# Web APIs  
+- **Frontend:** Angular  
+- **Database:** SQL Server  
+- **Other tools:** Git, Azure Pipelines, Postman, Insomnia
 
+I'm passionate about clean architecture, maintainable code, strong typing, and designing reliable APIs and intuitive user interfaces.
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/brsktdev) 
+---
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📚 Always Learning
+
+I’m constantly evolving my skills — whether diving deeper into .NET internals, mastering RxJS in Angular, or exploring new design patterns and database strategies.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brskt-dev&theme=highcontrast&hide_border=true)
+
+---
+
+## ☕ Support My Work
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/brsktdev)
+
+<!-- Created with ❤️ and GPRM (https://gprm.itsvg.in) -->
