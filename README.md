@@ -13,8 +13,6 @@ I bring with me a solid background in embedded systems development, which taught
 - **Database:** SQL Server  
 - **Other tools:** Git, Azure Pipelines, Postman, Insomnia
 
-I'm passionate about clean architecture, maintainable code, strong typing, and designing reliable APIs and intuitive user interfaces.
-
 ---
 
 ## 📚 Always Learning
